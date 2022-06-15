@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus Row Number and Fixed Header',
+    'name': 'Show Row Number and Fixed Header',
     'version': '15.0.1.0.1',
     'summary': """ 
             Show Row Number and Fixed Header in Tree/List View
